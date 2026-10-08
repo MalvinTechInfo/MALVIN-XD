@@ -29,6 +29,19 @@ const { sendButtons } = require("malvin-btns");
 const isValidBuffer = (buf) => Buffer.isBuffer(buf) && buf.length > 10240;
 const YT_URL_RE = /(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/shorts\/)/i;
 
+// Simple per-user cooldown to prevent repeated triggering of resource-heavy
+// operations (API calls, media downloads, canvas/format conversion).
+const DOWNLOAD_COOLDOWN_MS = 15000;
+const lastDownloadAt = new Map();
+function isRateLimited(sender) {
+    const key = sender || "unknown";
+    const now = Date.now();
+    const last = lastDownloadAt.get(key) || 0;
+    if (now - last < DOWNLOAD_COOLDOWN_MS) return true;
+    lastDownloadAt.set(key, now);
+    return false;
+}
+
 // Safely turn any thrown value into a short, readable string for WhatsApp.
 function describeError(error) {
     if (!error) return "Unknown error (nothing was thrown)";
@@ -166,6 +179,7 @@ mxd(
   async (from, Malvin, conText) => {
     const {
       q,
+      sender,
       reply,
       react,
       botPic,
@@ -178,6 +192,11 @@ mxd(
     if (!q) {
       await react("❌");
       return reply("Please provide a song name");
+    }
+
+    if (isRateLimited(sender)) {
+      await react("⏳");
+      return reply("Please wait a few seconds before requesting another download.");
     }
 
     try {
