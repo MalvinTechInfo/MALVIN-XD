@@ -1,7 +1,7 @@
 {
   "name": "MALVIN-XD",
   "version": "3.0.0",
-  "description": "MALVIN-XD, a Multi Device Whatsapp Bot built by Malvin Tech to Enhance Whatsapp Communication Experience",
+  "description": "MALVIN-XD, One of the best multi-device WhatsApp bots. Fast, secure and powerful, with auto reply, media downloader, sticker maker, AI chatbot, group tools, fun & games, YouTube tools and more. Powered by Malvin Tech.",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
@@ -12,7 +12,7 @@
     "stash": "git stash && git stash drop"
   },
   "keywords": [
-    "XdKing2",
+    "MalvinTechInfo",
     "malvin-xd",
     "whatsapp-bot",
     "malvintech", 
@@ -67,10 +67,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XdKing2/MALVIN-XD.git"
+    "url": "git+https://github.com/MalvinTechInfo/MALVIN-XD.git"
   },
   "bugs": {
-    "url": "https://github.com/XdKing2/MALVIN-XD/issues"
+    "url": "https://github.com/MalvinTechInfo/MALVIN-XD/issues"
   },
-  "homepage": "https://github.com/XdKing2/MALVIN-XD#readme"
+  "homepage": "https://github.com/MalvinTechInfo/MALVIN-XD#readme"
 }
