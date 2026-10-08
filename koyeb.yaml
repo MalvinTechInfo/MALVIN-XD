@@ -71,6 +71,6 @@ services:
 #    or use the Koyeb CLI:
 #      koyeb app init MALVIN-XD --config koyeb.yaml
 
-#    MALVIN_API_KEY   = <your key from api.malvin.gleeze.com dashboard>
+#    MALVIN_API_KEY   = <your key from api.malvintech.co.zw dashboard>
 
 # ─────────────────────────────────────────────────────────────
