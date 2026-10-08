@@ -18,7 +18,7 @@ services:
       - key: MODE
         value: public
       - key: TIME_ZONE
-        value: Africa/Nairobi
+        value: Africa/Harare
       - key: AUTO_LIKE_STATUS
         value: "true"
       - key: AUTO_READ_STATUS
