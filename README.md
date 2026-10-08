@@ -4,17 +4,17 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
 
-<a><img src='https://i.ibb.co/VWt5CXzX/malvin-xd.jpg'/></a>
+<a><img src='https://files.catbox.moe/hffiqp.jpg'/></a>
 
 <!-- 📊 STATS & HERO ANIMATION -->
 <div align="center">
 
   <p>
-    <img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/XdKing2?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/XdKing2/MALVIN-XD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/XdKing2/MALVIN-XD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/XdKing2/MALVIN-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://img.shields.io/github/forks/MalvinTechInfo/MALVIN-XD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/MalvinTechInfo?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/MalvinTechInfo/MALVIN-XD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/MalvinTechInfo/MALVIN-XD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/MalvinTechInfo/MALVIN-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
 
   <p>
@@ -46,7 +46,7 @@
 
 - This gives you your own safe, deployable copy of the repo — especially important for Heroku, Render, Railway users.
 
-<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="Fork Malvin-XD" width="150"></a>
+<a href="https://github.com/MalvinTechInfo/MALVIN-XD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="Fork Malvin-XD" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -54,12 +54,32 @@
 ## 𝟐. 𝐋𝐈𝐍𝐊 𝐖𝐈𝐓𝐇 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
 
 <details>
-<summary>GET YOUR SESSION_ID</summary>
+<summary>🔑 GET YOUR SESSION ID</summary>
 
-<a href="https://session.malvintech.co.zw/pair?bot=malvin"><img src="https://img.shields.io/badge/PAIRING%20CODE-green" alt="Pairing Code" width="150"></a>
-<a href="https://session.malvintech.co.zw/qr?bot=malvin"><img src="https://img.shields.io/badge/QR%20CODE-teal" alt="QR Code" width="150"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=CONNECT+YOUR+WHATSAPP;GENERATE+YOUR+SESSION+ID" alt="Session ID Header" />
+</p>
 
-- No forking required — anyone can generate a `SESSION_ID` from the link above.
+<p align="center">
+  <a href="https://session.malvintech.co.zw/pair?bot=malvin">
+    <img src="https://img.shields.io/badge/🔗_PAIRING_CODE-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Pairing Code" />
+  </a>
+  <a href="https://session.malvintech.co.zw/qr?bot=malvin">
+    <img src="https://img.shields.io/badge/📷_QR_CODE-00B8D4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get QR Code" />
+  </a>
+</p>
+
+<p align="center">
+  <b>⚡ QUICK CONNECTION GUIDE</b>
+</p>
+
+1. Choose **Pairing Code** or **QR Code**.
+2. Follow the instructions on the session website.
+3. Copy your generated `SESSION_ID`.
+4. Add it to your hosting provider's environment variables.
+
+> 💡 You don't need to fork the repository just to generate a session ID.
+
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -71,7 +91,7 @@
 | `SESSION_ID` | ✅ | Your bot session ID from the pairing site |
 | `MODE` | ✅ | `public` (anyone can use it) or `private` (owner only) |
 | `TIME_ZONE` | ✅ | e.g. `Africa/Harare`, `Asia/Kolkata`, `America/New_York` |
-| `MALVIN_API_KEY` | ✅ | Free key from [api.malvin.gleeze.com](https://api.malvin.gleeze.com) dashboard |
+| `MALVIN_API_KEY` | ✅ | Free key from [api.malvintech.co.zw](https://api.malvintech.co.zw) dashboard |
 | `AUTO_LIKE_STATUS` | ➖ | `true`/`false` — auto-like statuses |
 | `AUTO_READ_STATUS` | ➖ | `true`/`false` — auto-view statuses |
 | `DATABASE_URL` | ➖ | PostgreSQL URL. Leave blank to fall back to SQLite |
@@ -88,7 +108,7 @@
 
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Heroku Signup" width="150"></a>
 
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/XdKing2/MALVIN-XD"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy on Heroku" width="150"></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/MalvinTechInfo/MALVIN-XD"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy on Heroku" width="150"></a>
 
 - PostgreSQL is **auto-provisioned** via the `heroku-postgresql:essential-0` addon — no manual setup needed.
 - Builds from the repo's `Dockerfile` (ffmpeg included).
@@ -144,7 +164,7 @@
 
 <a href="https://app.koyeb.com/auth/signup"><img src="https://img.shields.io/badge/KOYEB%20SIGNUP-purple" alt="Koyeb Signup" width="150"></a>
 
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing2/MALVIN-XD"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Deploy on Koyeb" width="150"></a>
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=MalvinTechInfo/MALVIN-XD"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Deploy on Koyeb" width="150"></a>
 
 **Steps:**
 1. Fork this repo and sign in at [koyeb.com](https://koyeb.com).
@@ -167,7 +187,7 @@
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/XdKing2/MALVIN-XD.git
+git clone https://github.com/MalvinTechInfo/MALVIN-XD.git
 cd MALVIN-XD
 ```
 
@@ -213,10 +233,10 @@ pm2 restart malvin-xd
 <details>
 <summary>TAP TO OPEN</summary>
 
-<a href="https://bot-hosting.net/deploy?source=github&repo=XdKing2%2FMALVIN-XD&visibility=public&name=MALVIN-XD"><img src="https://bot-hosting.net/assets/deploy-badge.svg" alt="Deploy on Bot-Hosting" width="150"></a>
+<a href="https://bot-hosting.net/deploy?source=github&repo=MalvinTechInfo%2FMALVIN-XD&visibility=public&name=MALVIN-XD"><img src="https://bot-hosting.net/assets/deploy-badge.svg" alt="Deploy on Bot-Hosting" width="150"></a>
 <a href="https://bot-hosting.net/?aff=mrxdking" target="_blank"><img src="https://img.shields.io/badge/SIGNUP-gold" alt="Bot Hosting Signup" width="150"></a>
 
-- One-click deploy pulls straight from the `XdKing2/MALVIN-XD` GitHub repo — **no fork needed** just to use this button.
+- One-click deploy pulls straight from the `MalvinTechInfo/MALVIN-XD` GitHub repo — **no fork needed** just to use this button.
 - Sign up at [bot-hosting.net](https://bot-hosting.net/?aff=mrxdking), click **Deploy Now** above, and it auto-fills the repo for you.
 - Set `SESSION_ID`, `MODE`, `TIME_ZONE`, `MALVIN_API_KEY` in the instance's environment/startup settings.
 - Start the instance — SQLite is used automatically if `DATABASE_URL` isn't set.
@@ -258,7 +278,7 @@ pm2 restart malvin-xd
 
 > Built with ❤️ by **Mr XdKing**
 
-- 👤 [Mr XdKing](https://github.com/XdKing2) — Creator & Maintainer
+- 👤 [Mr XdKing](https://github.com/MalvinTechInfo) — Creator & Maintainer
   - Core features, plugin manager, deployment tools, performance optimization
 
 <p align="center">
@@ -269,8 +289,8 @@ pm2 restart malvin-xd
 ## 𝟒. 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 & 𝐒𝐔𝐏𝐏𝐎𝐑𝐓
 
 <p align="center">
-  <a href="https://github.com/XdKing2">
-    <img src="https://github-readme-stats.vercel.app/api?username=XdKing2&show_icons=true&theme=radical" />
+  <a href="https://github.com/MalvinTechInfo">
+    <img src="https://github-readme-stats.vercel.app/api?username=MalvinTechInfo&show_icons=true&theme=radical" />
   </a>
 </p>
 
@@ -301,11 +321,40 @@ pm2 restart malvin-xd
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘
+## ⭐ MALVIN-XD — STAR HISTORY
 
-[![Malvin-XD](https://api.star-history.com/svg?repos=XdKing2/MALVIN-XD&type=Timeline)](#)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=55&lines=EVERY+STAR+FUELS+THE+MISSION;THANK+YOU+FOR+SUPPORTING+MALVIN-XD" alt="MALVIN-XD Star History" />
+</p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/MalvinTechInfo/MALVIN-XD?style=for-the-badge&logo=github&logoColor=white&label=TOTAL%20STARS&color=00C853" alt="Total GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/MalvinTechInfo/MALVIN-XD?style=for-the-badge&logo=github&logoColor=white&label=TOTAL%20FORKS&color=00B8D4" alt="Total GitHub Forks" />
+</p>
+
+<p align="center">
+  <a href="https://star-history.com/#MalvinTechInfo/MALVIN-XD&Timeline">
+    <img src="https://api.star-history.com/svg?repos=MalvinTechInfo/MALVIN-XD&type=Timeline&theme=dark" width="100%" alt="MALVIN-XD GitHub Star History Timeline" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🚀 HELP MALVIN-XD GROW</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MalvinTechInfo/MALVIN-XD">
+    <img src="https://img.shields.io/badge/⭐_STAR_REPOSITORY-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Star MALVIN-XD" />
+  </a>
+  <a href="https://github.com/MalvinTechInfo/MALVIN-XD/fork">
+    <img src="https://img.shields.io/badge/🍴_FORK_PROJECT-00B8D4?style=for-the-badge&logo=github&logoColor=white" alt="Fork MALVIN-XD" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💚 Thanks for supporting the MALVIN-XD community!</i><br/>
+  <a href="https://github.com/MalvinTechInfo">MALVIN TECH</a> • Built for the community
+</p>
 
 ## 🤖 _MALVIN-XD STATUS_
 
@@ -319,20 +368,20 @@ pm2 restart malvin-xd
 
 <div style="margin-top:20px">
 
-[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/XdKing2/MALVIN-XD/graphs/contributors)
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/MalvinTechInfo/MALVIN-XD/graphs/contributors)
 
 </div>
 
 <p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p>
 <h2 align="center">💫 Thanks to our loyal followers</h2>
 <p align="center">
-  <a href="https://github.com/XdKing2/MALVIN-XD/stargazers">
-    <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD">
+  <a href="https://github.com/MalvinTechInfo/MALVIN-XD/stargazers">
+    <img src="http://reporoster.com/stars/dark/MalvinTechInfo/MALVIN-XD" alt="Stargazers repo roster for @MalvinTechInfo/MALVIN-XD">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/XdKing2/MALVIN-XD/network/members">
-    <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD">
+  <a href="https://github.com/MalvinTechInfo/MALVIN-XD/network/members">
+    <img src="http://reporoster.com/forks/dark/MalvinTechInfo/MALVIN-XD" alt="Forkers repo roster for @MalvinTechInfo/MALVIN-XD">
   </a>
 </p>
 
