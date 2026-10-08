@@ -23,7 +23,7 @@ restartPolicyMaxRetries = 5
 #    TIME_ZONE    = Africa/Harare
 #    AUTO_LIKE_STATUS = true
 #    AUTO_READ_STATUS = true
-#    MALVIN_API_KEY   = <your key from api.malvin.gleeze.com dashboard>
+#    MALVIN_API_KEY   = <your key from api.malvintech.co.zw dashboard>
 #
 #    DATABASE_URL is automatically linked from the Postgres plugin.
 # ─────────────────────────────────────────────────────────────
