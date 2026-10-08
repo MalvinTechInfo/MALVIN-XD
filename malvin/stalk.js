@@ -651,7 +651,7 @@ mxd(
 ╰═════════════════⊷
 
 📝 *${fancy("examples", "smallcaps")}*
-│↠ .github XdKing2 
+│↠ .github MalvinTechInfo 
 │↠ .igstalk cristiano
 │↠ .ttstalk malvintech
 │↠ .twitterstalk elonmusk
