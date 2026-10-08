@@ -1,9 +1,10 @@
 {
   "bot-name": "MALVIN-XD",
+  "logo": "https://files.catbox.moe/hffiqp.jpg",
   "owner-verification": "malvintech2@gmail.com",
   "tagline": "MALVIN-XD, a Multi Device Whatsapp Bot built by Malvin Tech to Enhance Whatsapp Communication Experience",
-  "documentation-link": "https://github.com/XdKing2/MALVIN-XD#readme",
-  "session-helper-url": "https://session.malvintech.sbs/pair?bot=malvin",
+  "documentation-link": "https://github.com/MalvinTechInfo/MALVIN-XD#readme",
+  "session-helper-url": "https://session.malvintech.co.zw/pair?bot=malvin",
   "env": {
     "SESSION_ID": {
       "description": "Paired WhatsApp session string",
@@ -33,7 +34,7 @@
       "required": false
     },
     "MALVIN_API_KEY": {
-      "description": "API key from https://api.malvin.gleeze.com (sign up, key is on your dashboard)",
+      "description": "API key from https://api.malvintech.co.zw (sign up, key is on your dashboard)",
       "required": true
     },
     "PORT": {
