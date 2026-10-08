@@ -34,13 +34,13 @@
   "economy.balance": "💰 Kudin {{name}}: {{amount}}",
   "economy.insufficient_funds": "⚠️ {{name}} ba shi da isasshen kudi.",
 
-  "api.key_missing": "⚠️ Wannan bot bai riga ya haɗu da Malvin API key ba tukuna. Mai shi ya kamata ya yi rajista a api.malvin.gleeze.com ya ƙara key ɗin cikin config na bot.",
+  "api.key_missing": "⚠️ Wannan bot bai riga ya haɗu da Malvin API key ba tukuna. Mai shi ya kamata ya yi rajista a api.malvintech.co.zw ya ƙara key ɗin cikin config na bot.",
   "api.key_invalid": "❌ Malvin API key na wannan bot ba shi da inganci ko ya kare.",
   "api.key_revoked": "🚫 An soke Malvin API key na wannan bot.",
   "api.key_paused": "⏸️ An dakatar da Malvin API key na wannan bot a yanzu.",
   "api.account_banned": "🚫 An hana wannan asusun Malvin API.",
-  "api.limit_exceeded": "⏳ An kai iyakar buƙatun na yau. Sake gwadawa gobe, ko haɓaka a api.malvin.gleeze.com.",
-  "api.tier_required": "⭐ Wannan fasalin yana buƙatar tsarin premium na Malvin API. Haɓaka a api.malvin.gleeze.com.",
+  "api.limit_exceeded": "⏳ An kai iyakar buƙatun na yau. Sake gwadawa gobe, ko haɓaka a api.malvintech.co.zw.",
+  "api.tier_required": "⭐ Wannan fasalin yana buƙatar tsarin premium na Malvin API. Haɓaka a api.malvintech.co.zw.",
   "api.request_failed": "❌ An kasa kai wa Malvin API a yanzu. Sake gwadawa nan da nan.",
 
   "dl.provide_url": "⚠️ Da fatan za a bayar da hanyar haɗi (URL) mai inganci don saukewa.",

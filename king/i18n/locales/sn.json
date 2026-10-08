@@ -34,13 +34,13 @@
   "economy.balance": "💰 Mari ya{{name}}: {{amount}}",
   "economy.insufficient_funds": "⚠️ {{name}} haana mari yakakwana.",
 
-  "api.key_missing": "⚠️ Bhoti iyi haisati yabatana neMalvin API key. Muridzi anofanira kunyoresa pa api.malvin.gleeze.com voisa key mune config yebhoti.",
+  "api.key_missing": "⚠️ Bhoti iyi haisati yabatana neMalvin API key. Muridzi anofanira kunyoresa pa api.malvintech.co.zw voisa key mune config yebhoti.",
   "api.key_invalid": "❌ Malvin API key yebhoti iyi haisi yechokwadi kana yapera nguva.",
   "api.key_revoked": "🚫 Malvin API key yebhoti iyi yabviswa.",
   "api.key_paused": "⏸️ Malvin API key yebhoti iyi yamiswa parizvino.",
   "api.account_banned": "🚫 Account iyi yeMalvin API yavharirwa.",
-  "api.limit_exceeded": "⏳ Muganho wezuva rega rega wasvika. Edza mangwana, kana kuti kwidziridza pa api.malvin.gleeze.com.",
-  "api.tier_required": "⭐ Chinhu ichi chinoda premium Malvin API plan. Kwidziridza pa api.malvin.gleeze.com.",
+  "api.limit_exceeded": "⏳ Muganho wezuva rega rega wasvika. Edza mangwana, kana kuti kwidziridza pa api.malvintech.co.zw.",
+  "api.tier_required": "⭐ Chinhu ichi chinoda premium Malvin API plan. Kwidziridza pa api.malvintech.co.zw.",
   "api.request_failed": "❌ Hatina kukwanisa kusvika kuMalvin API parizvino. Edza zvakare munguva pfupi.",
 
   "dl.provide_url": "⚠️ Ndapota ipa link (URL) yakanaka yekudownload.",

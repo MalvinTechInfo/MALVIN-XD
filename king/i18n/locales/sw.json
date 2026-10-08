@@ -34,13 +34,13 @@
   "economy.balance": "💰 Salio la {{name}}: {{amount}}",
   "economy.insufficient_funds": "⚠️ {{name}} hana fedha za kutosha.",
 
-  "api.key_missing": "⚠️ Bot hii bado haijaunganishwa na ufunguo wa Malvin API. Mmiliki anahitaji kujisajili api.malvin.gleeze.com na kuongeza ufunguo kwenye config ya bot.",
+  "api.key_missing": "⚠️ Bot hii bado haijaunganishwa na ufunguo wa Malvin API. Mmiliki anahitaji kujisajili api.malvintech.co.zw na kuongeza ufunguo kwenye config ya bot.",
   "api.key_invalid": "❌ Ufunguo wa Malvin API wa bot hii si sahihi au umeisha muda.",
   "api.key_revoked": "🚫 Ufunguo wa Malvin API wa bot hii umefutwa.",
   "api.key_paused": "⏸️ Ufunguo wa Malvin API wa bot hii umesimamishwa kwa sasa.",
   "api.account_banned": "🚫 Akaunti hii ya Malvin API imepigwa marufuku.",
-  "api.limit_exceeded": "⏳ Kikomo cha maombi cha kila siku kimefikiwa. Jaribu tena kesho, au boresha kwenye api.malvin.gleeze.com.",
-  "api.tier_required": "⭐ Kipengele hiki kinahitaji mpango wa premium wa Malvin API. Boresha kwenye api.malvin.gleeze.com.",
+  "api.limit_exceeded": "⏳ Kikomo cha maombi cha kila siku kimefikiwa. Jaribu tena kesho, au boresha kwenye api.malvintech.co.zw.",
+  "api.tier_required": "⭐ Kipengele hiki kinahitaji mpango wa premium wa Malvin API. Boresha kwenye api.malvintech.co.zw.",
   "api.request_failed": "❌ Imeshindwa kufikia Malvin API kwa sasa. Jaribu tena baadaye.",
 
   "dl.provide_url": "⚠️ Tafadhali toa kiungo (URL) sahihi cha kupakua.",

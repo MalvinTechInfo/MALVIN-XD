@@ -34,13 +34,13 @@
   "economy.balance": "💰 Owó {{name}}: {{amount}}",
   "economy.insufficient_funds": "⚠️ {{name}} kò ní owó tó pọ̀ tó.",
 
-  "api.key_missing": "⚠️ Bot yìí kò tíì sopọ̀ mọ́ Malvin API key kan. Onílé gbọ́dọ̀ forúkọsílẹ̀ ní api.malvin.gleeze.com kí ó sì fi key náà kún config bot náà.",
+  "api.key_missing": "⚠️ Bot yìí kò tíì sopọ̀ mọ́ Malvin API key kan. Onílé gbọ́dọ̀ forúkọsílẹ̀ ní api.malvintech.co.zw kí ó sì fi key náà kún config bot náà.",
   "api.key_invalid": "❌ Malvin API key bot yìí kò tọ́ tàbí ó ti parí.",
   "api.key_revoked": "🚫 A ti fagilé Malvin API key bot yìí.",
   "api.key_paused": "⏸️ A ti dá Malvin API key bot yìí dúró fún báyìí.",
   "api.account_banned": "🚫 A ti fòfin de àkọọ́lẹ̀ Malvin API yìí.",
-  "api.limit_exceeded": "⏳ Ààlà ìbéèrè ojoojúmọ́ ti kún. Gbìyànjú lẹ́ẹ̀kansì ní ọ̀la, tàbí ṣàgbékalẹ̀ ní api.malvin.gleeze.com.",
-  "api.tier_required": "⭐ Ẹ̀yà yìí nílò ètò premium ti Malvin API. Ṣàgbékalẹ̀ ní api.malvin.gleeze.com.",
+  "api.limit_exceeded": "⏳ Ààlà ìbéèrè ojoojúmọ́ ti kún. Gbìyànjú lẹ́ẹ̀kansì ní ọ̀la, tàbí ṣàgbékalẹ̀ ní api.malvintech.co.zw.",
+  "api.tier_required": "⭐ Ẹ̀yà yìí nílò ètò premium ti Malvin API. Ṣàgbékalẹ̀ ní api.malvintech.co.zw.",
   "api.request_failed": "❌ A kò lè dé Malvin API báyìí. Gbìyànjú lẹ́ẹ̀kansì láìpẹ́.",
 
   "dl.provide_url": "⚠️ Jọ̀wọ́ fún ní ọ̀nà ìsopọ̀ (URL) tó tọ́ láti ṣàwọlé.",

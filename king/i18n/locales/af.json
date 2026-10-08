@@ -34,13 +34,13 @@
   "economy.balance": "💰 {{name}} se saldo: {{amount}}",
   "economy.insufficient_funds": "⚠️ {{name}} het nie genoeg fondse daarvoor nie.",
 
-  "api.key_missing": "⚠️ Hierdie bot is nog nie aan 'n Malvin API-sleutel gekoppel nie. Die eienaar moet by api.malvin.gleeze.com registreer en die sleutel by die bot se config voeg.",
+  "api.key_missing": "⚠️ Hierdie bot is nog nie aan 'n Malvin API-sleutel gekoppel nie. Die eienaar moet by api.malvintech.co.zw registreer en die sleutel by die bot se config voeg.",
   "api.key_invalid": "❌ Hierdie bot se Malvin API-sleutel is ongeldig of het verval.",
   "api.key_revoked": "🚫 Hierdie bot se Malvin API-sleutel is herroep.",
   "api.key_paused": "⏸️ Hierdie bot se Malvin API-sleutel is tans gepouseer.",
   "api.account_banned": "🚫 Hierdie Malvin API-rekening is verban.",
-  "api.limit_exceeded": "⏳ Daaglikse versoeklimiet bereik. Probeer môre weer, of gradeer op by api.malvin.gleeze.com.",
-  "api.tier_required": "⭐ Hierdie funksie benodig 'n premium Malvin API-plan. Gradeer op by api.malvin.gleeze.com.",
+  "api.limit_exceeded": "⏳ Daaglikse versoeklimiet bereik. Probeer môre weer, of gradeer op by api.malvintech.co.zw.",
+  "api.tier_required": "⭐ Hierdie funksie benodig 'n premium Malvin API-plan. Gradeer op by api.malvintech.co.zw.",
   "api.request_failed": "❌ Kon nie nou by Malvin API uitkom nie. Probeer binnekort weer.",
 
   "dl.provide_url": "⚠️ Verskaf asseblief 'n geldige URL om af te laai.",

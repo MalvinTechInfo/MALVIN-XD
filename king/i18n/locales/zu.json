@@ -34,13 +34,13 @@
   "economy.balance": "💰 Ibhalansi ka-{{name}}: {{amount}}",
   "economy.insufficient_funds": "⚠️ {{name}} akanayo imali eyanele kulokho.",
 
-  "api.key_missing": "⚠️ Le bot ayikaxhunywa ku-Malvin API key okwamanje. Umnikazi kudingeka abhalise ku-api.malvin.gleeze.com bese engeza ukhiye ku-config ye-bot.",
+  "api.key_missing": "⚠️ Le bot ayikaxhunywa ku-Malvin API key okwamanje. Umnikazi kudingeka abhalise ku-api.malvintech.co.zw bese engeza ukhiye ku-config ye-bot.",
   "api.key_invalid": "❌ I-Malvin API key yale bot ayilungile noma isiphelelwe yisikhathi.",
   "api.key_revoked": "🚫 I-Malvin API key yale bot isuswe.",
   "api.key_paused": "⏸️ I-Malvin API key yale bot imisiwe okwamanje.",
   "api.account_banned": "🚫 Le akhawunti ye-Malvin API ivinjelwe.",
-  "api.limit_exceeded": "⏳ Umkhawulo wezicelo zosuku ufinyelelwe. Zama futhi kusasa, noma uthuthukise ku-api.malvin.gleeze.com.",
-  "api.tier_required": "⭐ Lesi sici sidinga uhlelo lwe-premium lwe-Malvin API. Thuthukisa ku-api.malvin.gleeze.com.",
+  "api.limit_exceeded": "⏳ Umkhawulo wezicelo zosuku ufinyelelwe. Zama futhi kusasa, noma uthuthukise ku-api.malvintech.co.zw.",
+  "api.tier_required": "⭐ Lesi sici sidinga uhlelo lwe-premium lwe-Malvin API. Thuthukisa ku-api.malvintech.co.zw.",
   "api.request_failed": "❌ Ayikwazanga ukufinyelela ku-Malvin API okwamanje. Zama futhi maduze.",
 
   "dl.provide_url": "⚠️ Sicela unikeze i-URL esebenzayo yokulanda.",

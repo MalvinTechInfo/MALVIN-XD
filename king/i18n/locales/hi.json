@@ -34,13 +34,13 @@
   "economy.balance": "💰 {{name}} का बैलेंस: {{amount}}",
   "economy.insufficient_funds": "⚠️ {{name}} के पास इसके लिए पर्याप्त पैसे नहीं हैं।",
 
-  "api.key_missing": "⚠️ यह बॉट अभी तक किसी Malvin API key से जुड़ा नहीं है। मालिक को api.malvin.gleeze.com पर साइन अप करके बॉट के कॉन्फ़िग में key जोड़नी होगी।",
+  "api.key_missing": "⚠️ यह बॉट अभी तक किसी Malvin API key से जुड़ा नहीं है। मालिक को api.malvintech.co.zw पर साइन अप करके बॉट के कॉन्फ़िग में key जोड़नी होगी।",
   "api.key_invalid": "❌ इस बॉट की Malvin API key अमान्य है या समाप्त हो गई है।",
   "api.key_revoked": "🚫 इस बॉट की Malvin API key रद्द कर दी गई है।",
   "api.key_paused": "⏸️ इस बॉट की Malvin API key फ़िलहाल रोकी हुई है।",
   "api.account_banned": "🚫 यह Malvin API खाता बैन कर दिया गया है।",
-  "api.limit_exceeded": "⏳ आज की दैनिक सीमा पूरी हो गई। कल फिर कोशिश करें, या api.malvin.gleeze.com पर अपग्रेड करें।",
-  "api.tier_required": "⭐ इस फीचर के लिए प्रीमियम Malvin API प्लान चाहिए। api.malvin.gleeze.com पर अपग्रेड करें।",
+  "api.limit_exceeded": "⏳ आज की दैनिक सीमा पूरी हो गई। कल फिर कोशिश करें, या api.malvintech.co.zw पर अपग्रेड करें।",
+  "api.tier_required": "⭐ इस फीचर के लिए प्रीमियम Malvin API प्लान चाहिए। api.malvintech.co.zw पर अपग्रेड करें।",
   "api.request_failed": "❌ अभी Malvin API तक नहीं पहुँच सका। कुछ देर बाद फिर कोशिश करें।",
 
   "dl.provide_url": "⚠️ कृपया डाउनलोड करने के लिए सही URL दें।",

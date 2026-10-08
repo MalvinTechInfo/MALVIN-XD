@@ -34,13 +34,13 @@
   "economy.balance": "💰 {{name}} balance na: {{amount}}",
   "economy.insufficient_funds": "⚠️ {{name}} no get enough money for that.",
 
-  "api.key_missing": "⚠️ This bot never connect to Malvin API key yet. Owner need go sign up for api.malvin.gleeze.com add the key inside bot config.",
+  "api.key_missing": "⚠️ This bot never connect to Malvin API key yet. Owner need go sign up for api.malvintech.co.zw add the key inside bot config.",
   "api.key_invalid": "❌ This bot Malvin API key no correct or e don expire.",
   "api.key_revoked": "🚫 Dem don revoke this bot Malvin API key.",
   "api.key_paused": "⏸️ This bot Malvin API key dey paused now.",
   "api.account_banned": "🚫 Dem don ban this Malvin API account.",
-  "api.limit_exceeded": "⏳ Daily request limit don finish. Try again tomorrow, or upgrade for api.malvin.gleeze.com.",
-  "api.tier_required": "⭐ This feature need premium Malvin API plan. Upgrade for api.malvin.gleeze.com.",
+  "api.limit_exceeded": "⏳ Daily request limit don finish. Try again tomorrow, or upgrade for api.malvintech.co.zw.",
+  "api.tier_required": "⭐ This feature need premium Malvin API plan. Upgrade for api.malvintech.co.zw.",
   "api.request_failed": "❌ We no fit reach Malvin API now. Try again small time.",
 
   "dl.provide_url": "⚠️ Abeg put correct link (URL) make we download am.",

@@ -34,13 +34,13 @@
   "economy.balance": "💰 {{name}} ගේ ශේෂය: {{amount}}",
   "economy.insufficient_funds": "⚠️ {{name}} ට ප්‍රමාණවත් මුදල් නැත.",
 
-  "api.key_missing": "⚠️ මෙම bot එක තවම Malvin API key එකකට සම්බන්ධ වී නැත. හිමිකරු api.malvin.gleeze.com හි ලියාපදිංචි වී key එක bot config එකට එකතු කළ යුතුය.",
+  "api.key_missing": "⚠️ මෙම bot එක තවම Malvin API key එකකට සම්බන්ධ වී නැත. හිමිකරු api.malvintech.co.zw හි ලියාපදිංචි වී key එක bot config එකට එකතු කළ යුතුය.",
   "api.key_invalid": "❌ මෙම bot එකේ Malvin API key එක වලංගු නැත හෝ කල් ඉකුත් වී ඇත.",
   "api.key_revoked": "🚫 මෙම bot එකේ Malvin API key එක අවලංගු කර ඇත.",
   "api.key_paused": "⏸️ මෙම bot එකේ Malvin API key එක දැනට විරාම කර ඇත.",
   "api.account_banned": "🚫 මෙම Malvin API ගිණුම තහනම් කර ඇත.",
-  "api.limit_exceeded": "⏳ දෛනික ඉල්ලීම් සීමාව ළඟා විය. හෙට නැවත උත්සාහ කරන්න, හෝ api.malvin.gleeze.com හි උසස් කරන්න.",
-  "api.tier_required": "⭐ මෙම විශේෂාංගය සඳහා premium Malvin API සැලැස්මක් අවශ්‍යයි. api.malvin.gleeze.com හි උසස් කරන්න.",
+  "api.limit_exceeded": "⏳ දෛනික ඉල්ලීම් සීමාව ළඟා විය. හෙට නැවත උත්සාහ කරන්න, හෝ api.malvintech.co.zw හි උසස් කරන්න.",
+  "api.tier_required": "⭐ මෙම විශේෂාංගය සඳහා premium Malvin API සැලැස්මක් අවශ්‍යයි. api.malvintech.co.zw හි උසස් කරන්න.",
   "api.request_failed": "❌ දැනට Malvin API වෙත ළඟාවිය නොහැක. සුළු වේලාවකින් නැවත උත්සාහ කරන්න.",
 
   "dl.provide_url": "⚠️ බාගත කිරීමට වලංගු URL එකක් සපයන්න.",
