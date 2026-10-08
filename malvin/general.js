@@ -618,7 +618,7 @@ mxd(
         channelUrl = `https://whatsapp.com/channel/${channelId}`;
       }
 
-      const fallbackImage = "https://i.ibb.co/zHhMyRT3/malvin-xd.jpg";
+      const fallbackImage = "https://files.catbox.moe/hffiqp.jpg";
       const validBotPic = botPic && botPic !== '' ? botPic : fallbackImage;
 
       const buttons = [
