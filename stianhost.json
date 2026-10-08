@@ -11,7 +11,7 @@
   "visibility": "public",
   "env": {
     "SESSION_ID": {
-      "description": "Your WhatsApp session ID. Get it at session.malvintech.sbs/pair?bot=malvin",
+      "description": "Your WhatsApp session ID. Get it at session.malvintech.co.zw/pair?bot=malvin",
       "required": true,
       "type": "string"
     },
@@ -56,7 +56,7 @@
       "type": "string"
     },
     "MALVIN_API_KEY": {
-      "description": "API key from api.malvin.gleeze.com",
+      "description": "API key from https://api.malvintech.co.zw (sign up, key is on your dashboard)",
       "required": true,
       "type": "string"
     }
