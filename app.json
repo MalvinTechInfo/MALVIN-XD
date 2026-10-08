@@ -2,7 +2,7 @@
   "name": "MALVIN-XD",
   "version": "3.0.0",
   "description": "MXD, a Multi Device Whatsapp Bot built by Malvin Tech to Enhance Whatsapp Communication Experience",
-  "logo": "https://i.ibb.co/zHhMyRT3/malvin-xd.jpg",
+  "logo": "https://files.catbox.moe/hffiqp.jpg",
   "keywords": ["malvinxd","mrxdking", "mrxd-baileys", "malvin-btns", "malvin-api"],
   "success_url": "/",
   "stack": "heroku-22",
@@ -38,7 +38,7 @@
       "value": ""
     },
     "MALVIN_API_KEY": {
-      "description": "API key for api.malvin.gleeze.com. Sign up and get your key from the dashboard.",
+      "description": "API key for api.malvintech.co.zw. Sign up and get your key from the dashboard.",
       "required": true,
       "value": ""
     }
